@@ -1,0 +1,8 @@
+bcrypt
+fastapi
+motor
+passlib
+pydantic[email]
+python-dotenv
+python-jose
+uvicorn
